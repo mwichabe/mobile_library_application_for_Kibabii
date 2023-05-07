@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99925742971",
+    "project_id": "mobileapp-for-kibabii-library",
+    "storage_bucket": "mobileapp-for-kibabii-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99925742971:android:e53cdf6348a3f6282419de",
+        "android_client_info": {
+          "package_name": "com.example.kibu.mobile_app_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99925742971-bdljg4p1hf7gkr8roe6mhnlltu0oioe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kibu.mobile_app_library",
+            "certificate_hash": "e5356dfc3b9e02c311fed555663d831b4aa66e98"
+          }
+        },
+        {
+          "client_id": "99925742971-c0hgo05nsl8qcrdmcbasb5no9g69gqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmP1_R5MaaEfyVe9jxR8_bDNLLuoevQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99925742971-c0hgo05nsl8qcrdmcbasb5no9g69gqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
